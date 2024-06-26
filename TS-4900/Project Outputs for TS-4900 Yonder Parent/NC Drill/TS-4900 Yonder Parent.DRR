@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TS-4900 Yonder Parent.PcbDoc   2020-02-20  2:58:47 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : TS-4900 Yonder Parent.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             198       PTH        38.30inch (972.86mm)
+T2      16mil (0.406mm)                                           Round             88        PTH        18.82inch (478.03mm)
+T3      28mil (0.7mm)                                             Round             2         PTH        0.47inch (12.00mm)
+T4      46mil (1.17mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             4         PTH        0.55inch (14.00mm)
+T6      59mil (1.5mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T7      118mil (3mm)                                              Round             4         PTH        3.24inch (82.32mm)
+T8      173mil (4.4mm)                                            Round             2         PTH        3.26inch (82.83mm)
+T9      32mil (0.8mm)                                             Round             2         NPTH       2.59inch (65.77mm)
+T10     47mil (1.2mm)                                             Round             4         NPTH       7.85inch (199.26mm)
+T11     63mil (1.6mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T12     67mil (1.7mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              308
+
+Total Processing Time (hh:mm:ss) : 00:00:01
